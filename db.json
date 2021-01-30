@@ -5,29 +5,28 @@
     "questions": [
       {
         "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "title": "Como é a forma default de importar o pandas?",
+        "answer": 0,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "import pandas as pd",
+          "import pandas"
+      
         ]
       },
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "title": "Qual a lib para criação de gráficos mais utilizada?",
         "description": "Faz tempo em haha",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "matplotlib",
+           "d3.js"
         ]
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
